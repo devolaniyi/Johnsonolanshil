@@ -88,4 +88,4 @@ Full-featured admin platform for employee and fleet management. Built with a sca
 ---
 
 *Available for freelance projects, contract roles, and full-time remote positions.*  
-**[olaniyiiibrahim2006@gmail.com](mailto:olaniyiiibrahim2006@gmail.com)**
+**[olaniyiolashile202@gmail.com](mailto: olaniyiolanshile292@gmail.com)**
