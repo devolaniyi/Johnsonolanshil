@@ -3,7 +3,7 @@
 **Frontend Engineer — Web & Mobile**  
 *Building performant, scalable interfaces that users love and businesses trust.*
 
-[![Email](https://img.shields.io/badge/ibrahimfrontendengineer%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ibrahimfrontendengineer@gmail.com)
+[![Email](https://img.shields.io/badge/olaniyiolanshile202@gmail.com%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto: olaniyiolanshile292@gmail.com)
 [![GitHub](https://img.shields.io/badge/Olaniyiibrahim-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Olaniyiibrahim)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Remote%20%26%20Relocation-0A66C2?style=flat-square&logo=briefcase&logoColor=white)
 
