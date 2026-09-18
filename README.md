@@ -3,7 +3,7 @@
 **Frontend Engineer — Web & Mobile**  
 *Building performant, scalable interfaces that users love and businesses trust.*
 
-[![Email](https://img.shields.io/badge/olaniyiolanshile202@gmail.com%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto: olaniyiolanshile202@gmail.com)
+[![Email](https://img.shields.io/badge/Ibrahimfrontendengineer@gmail.com%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto: ibrahimfrontendengineer@gmail.com)
 [![GitHub](https://img.shields.io/badge/johnsoolashile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Johnsonolanshile)
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Remote%20%26%20Relocation-0A66C2?style=flat-square&logo=briefcase&logoColor=white)
 
@@ -17,7 +17,7 @@ My work spans consumer mobile apps built with **React Native**, data-intensive d
 
 Currently focused on: cross-platform mobile development, real-time data systems, and AI-enhanced user workflows.
 
----
+--
 
 ## Core Competencies
 
@@ -88,4 +88,4 @@ Full-featured admin platform for employee and fleet management. Built with a sca
 ---
 
 *Available for freelance projects, contract roles, and full-time remote positions.*  
-**[olaniyiolashile202@gmail.com](mailto: olaniyiolanshile292@gmail.com)**
+**[ibrahimfrontendengineer@gmail.com](mailto: ibrahimfrontendengineer@gmail.com)**
