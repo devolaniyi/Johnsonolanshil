@@ -1,4 +1,4 @@
-# Johnson Olanshile 
+# Olaniyi Ibrahim 
 
 **Frontend Engineer — Web & Mobile**  
 *Building performant, scalable interfaces that users love and businesses trust.*
